@@ -5,7 +5,13 @@ import Profile from './components/profile.js';
 export default function App() {
   return (
     <div>
-      <Profile{...user} />
+      <Profile
+  username={user.username}
+  tag={user.tag}
+  location={user.location}
+  avatar={user.avatar}
+  stats={user.stats}
+/>
     </div>
   );
 }
