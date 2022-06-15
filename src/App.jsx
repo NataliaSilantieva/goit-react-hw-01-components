@@ -1,10 +1,10 @@
-import user from 'database/user.json' ; 
+import Container from './components/container/Container.js';
+import user from '.components/database/user.json'; 
 import Profile from './components/profile/Profile.js';
-
 
 export default function App() {
   return (
-    <div>
+    <Container>
       <Profile
   username={user.username}
   tag={user.tag}
@@ -12,6 +12,8 @@ export default function App() {
   avatar={user.avatar}
   stats={user.stats}
 />
-    </div>
+
+
+    </Container>
   );
 }
