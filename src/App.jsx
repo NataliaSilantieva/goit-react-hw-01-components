@@ -1,6 +1,6 @@
 import Container from './components/container/Container.js';
-import user from '.components/database/user.json'; 
-import Profile from './components/profile/Profile.js';
+import user from './components/database/user.json'; 
+import Profile from './components/profile/Profile.jsx';
 
 export default function App() {
   return (
