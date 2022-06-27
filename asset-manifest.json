@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/NataliaSilantieva/goit-react-hw-01-components.git/static/css/main.96ff5037.css",
-    "main.js": "/NataliaSilantieva/goit-react-hw-01-components.git/static/js/main.13587f4f.js",
+    "main.js": "/NataliaSilantieva/goit-react-hw-01-components.git/static/js/main.4c7d3dc2.js",
     "index.html": "/NataliaSilantieva/goit-react-hw-01-components.git/index.html",
     "main.96ff5037.css.map": "/NataliaSilantieva/goit-react-hw-01-components.git/static/css/main.96ff5037.css.map",
-    "main.13587f4f.js.map": "/NataliaSilantieva/goit-react-hw-01-components.git/static/js/main.13587f4f.js.map"
+    "main.4c7d3dc2.js.map": "/NataliaSilantieva/goit-react-hw-01-components.git/static/js/main.4c7d3dc2.js.map"
   },
   "entrypoints": [
     "static/css/main.96ff5037.css",
-    "static/js/main.13587f4f.js"
+    "static/js/main.4c7d3dc2.js"
   ]
 }
